@@ -1,2 +1,2 @@
-# yammer-search-performance
+# Yammer Search Performance Analysis
 Mode Analytics SQL project
